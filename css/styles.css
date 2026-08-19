@@ -2,6 +2,14 @@ body {
   background: #f8e8a6;
 }
 
-h1 {
+h1,
+footer,
+p {
+  display: block;
   text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: green;
 }
